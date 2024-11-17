@@ -45,13 +45,13 @@ The application expects the following four arguments:
 Run the script from the terminal as follows:
 
 ```bash
-python main.py [TICKER] [START_DATE] [END_DATE] [INTERVAL]
+python3 main.py [TICKER] [START_DATE] [END_DATE] [INTERVAL]
 ```
 
 Example:
 
 ```bash
-python main.py AAPL 2023-01-01 2023-12-31 1d
+python3 main.py AAPL 2023-01-01 2023-12-31 1d
 ```
 
 ### Output
